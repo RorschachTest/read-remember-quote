@@ -1,0 +1,29 @@
+{
+  "name": "read-remember-quote",
+  "version": "1.0.0",
+  "description": "web application shows quotes from your favourite author and books you have read",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RorschachTest/read-remember-quote.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "goodreads",
+    "api",
+    "mysql"
+  ],
+  "author": "rihazzahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RorschachTest/read-remember-quote/issues"
+  },
+  "homepage": "https://github.com/RorschachTest/read-remember-quote#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
